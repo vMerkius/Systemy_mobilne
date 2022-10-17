@@ -1,0 +1,90 @@
+4.
+Po pierwszym uruchomieniu aplikacji:
+
+2022-10-16 14:47:56.829 20743-20743 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnCreate
+2022-10-16 14:47:56.977 20743-20743 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnStart
+2022-10-16 14:47:56.979 20743-20743 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnResume
+
+Po wciśnięciu przycisku Cofnij:
+
+2022-10-16 14:48:06.816 20743-20743 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnPause
+2022-10-16 14:48:07.325 20743-20743 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnStop
+2022-10-16 14:48:07.331 20743-20743 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnDestroy
+
+Po ponownym uruchomieniu aplikacji:
+
+2022-10-16 14:49:09.835 23946-23946 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnCreate
+2022-10-16 14:49:09.901 23946-23946 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnStart
+2022-10-16 14:49:09.903 23946-23946 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnResume
+
+Po wciśnięciu przycisku ekranu głównego Home:
+
+2022-10-16 14:49:20.255 23946-23946 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnPause
+2022-10-16 14:49:20.660 23946-23946 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnStop
+
+Po powrocie do aplikacji z listy ostatnio używanych aplikacji:
+
+2022-10-16 14:49:30.965 23946-23946 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnStart
+2022-10-16 14:49:30.968 23946-23946 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnResume
+
+Po obróceniu
+2022-10-16 14:50:06.498 23946-23946 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnPause
+2022-10-16 14:50:06.516 23946-23946 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnStop
+2022-10-16 14:50:06.521 23946-23946 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnDestroy
+2022-10-16 14:50:06.564 23946-23946 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnCreate
+2022-10-16 14:50:06.645 23946-23946 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnStart
+2022-10-16 14:50:06.647 23946-23946 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnResume
+
+
+13.
+Po pierwszym uruchomieniu aplikacji:
+
+2022-10-16 14:55:13.096 27738-27738 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnCreate
+2022-10-16 14:55:13.235 27738-27738 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnStart
+2022-10-16 14:55:13.237 27738-27738 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnResume
+
+Po wciśnięciu przycisku Cofnij:
+
+2022-10-16 14:55:36.262 27738-27738 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnPause
+2022-10-16 14:55:36.726 27738-27738 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnStop
+2022-10-16 14:55:36.732 27738-27738 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnDestroy
+
+Po ponownym uruchomieniu aplikacji:
+
+2022-10-16 14:55:51.644 27738-27738 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnCreate
+2022-10-16 14:55:51.723 27738-27738 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnStart
+2022-10-16 14:55:51.724 27738-27738 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnResume
+
+Po wciśnięciu przycisku ekranu głównego Home:
+
+2022-10-16 14:56:04.337 27738-27738 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnPause
+2022-10-16 14:56:04.755 27738-27738 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnStop
+2022-10-16 14:56:04.761 27738-27738 Activity:               com.example.quiz2                    D  Wywołana została metoda: onSaveInstanceState
+
+Po powrocie do aplikacji z listy ostatnio używanych aplikacji:
+
+2022-10-16 14:56:16.756 27738-27738 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnStart
+2022-10-16 14:56:16.758 27738-27738 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnResume
+
+Po obróceniu:
+2022-10-16 14:54:27.859 24481-24481 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnPause
+2022-10-16 14:54:27.868 24481-24481 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnStop
+2022-10-16 14:54:27.870 24481-24481 Activity:               com.example.quiz2                    D  Wywołana została metoda: onSaveInstanceState
+2022-10-16 14:54:27.871 24481-24481 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnDestroy
+2022-10-16 14:54:27.913 24481-24481 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnCreate
+2022-10-16 14:54:27.992 24481-24481 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnStart
+2022-10-16 14:54:27.995 24481-24481 Activity:               com.example.quiz2                    D  Wywołana została metoda cyklu życia: OnResume
+
+15. Sprawdź zawartość pliku AndroidManifest.xml. Czy pojawił się tam wpis dotyczący nowej
+aktywności?
+
+tak:
+
+ <activity
+            android:name=".PromptActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+ </activity>
+
